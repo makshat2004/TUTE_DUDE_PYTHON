@@ -1,0 +1,10 @@
+# Task 1: Read a File and Handle Errors
+
+- This program opens and reads a text file named sample.txt using with keyword and error handling using try exception block
+- It then prints the content line by line using the readline function by using a loop
+- Error handling done to ensure proper flow of code
+
+# Task 2: Write and Append Data to a File
+
+- This program takes user input to write the data into a file and another input to append data into the same file
+- Finally reads and display the content into the terminal
